@@ -9,9 +9,9 @@ export function Profile({
     <Flex align="center">
       {showProfileData && (
         <Box mr="4" textAlign="right">
-          <Text>Daniel Soarees</Text>
+          <Text>Daniel Soares</Text>
           <Text color="gray.300" fontSize="small">
-            meuemail@gmail.com
+            danielmail@gmail.com
           </Text>
         </Box>
       )}
